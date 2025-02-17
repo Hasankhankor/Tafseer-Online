@@ -10,7 +10,7 @@ function Footer() {
 
       {/* GitHub Button */}
       <a
-        href="https://github.com/ETARAZ"
+        href="https://github.com/Hasankhankor/Tafseer-Online"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center space-x-2 bg-gold-500 text-green-900 px-4 py-2 rounded-full transition hover:bg-gold-400 ml-4"
